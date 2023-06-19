@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1663344551 source:c:\users\michael\desktop\task_303447(вар 10)\yakobiprived\main.cpp
+	<iostream>
+	<fstream>
+	"conio.h"
+	<locale>
+	<cmath>
+
+1663431961 source:c:\users\michael\desktop\task_303447(вар 10)\iterations\main.cpp
+	<iostream>
+	<fstream>
+	"conio.h"
+	<locale>
+	<cmath>
+
